@@ -1,0 +1,10 @@
+0 High five
+1 Fist Up
+2 Thumbs Up
+3 Thumbs Down
+4 Point Up
+5 Point Down
+6 Peace Sign
+7 Ok Sign
+8 Rock Sign
+9 Shaka Sign
