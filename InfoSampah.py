@@ -112,4 +112,5 @@ async def classify(ctx):
 
 # Run the bot
 
-bot.run("MTMwMDgwODYxNDg0NzU3ODIxMg.G1zejS.SmhGaekvD1_xz16kWI3GuZT8ronNStto4rLK_I")
+bot.run("")
+
